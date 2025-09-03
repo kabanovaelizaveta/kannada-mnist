@@ -36,16 +36,14 @@ Develop a feedforward neural network (MLP) implemented from scratch (using NumPy
   - Tanh
 
 ## Evaluation Metrics
-- Accuracy
-- Cross-Entropy Loss
-- Train vs. Test curves for performance monitoring
-- Number of Incorrect Predicting Labels
+- **Accuracy**
+- **Cross-Entropy Loss**
+- **Train vs. Test curves for performance monitoring**
+- **Number of Incorrect Predicting Labels**
 
 ## Results
-- **ELU with learning rate = 1.2** showed the best performance:
-  - Accuracy of Prediction: 97.75%.
-  - Number of Incorrect Predicting Labels: 269
-
+- **ELU with learning rate = 1.2** showed the best performance (Accuracy ~97.75%)
+  
 ## Tools & Libraries
 - **Numerical Computing**: NumPy
 - **Data Handling**: Pandas
